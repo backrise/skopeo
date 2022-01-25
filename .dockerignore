@@ -1,0 +1,11 @@
+*.1
+/layers-*
+/skopeo
+result
+
+# ignore JetBrains IDEs (GoLand) config folder
+.idea
+
+# Ignore the bin directory
+bin
+.git
